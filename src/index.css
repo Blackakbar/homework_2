@@ -12,7 +12,6 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-/* Стиль для центрирования */
 .centered {
   display: flex;
   justify-content: center;
